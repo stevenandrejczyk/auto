@@ -1,1 +1,2 @@
 ssh chubskins@192.168.4.186
+scp -r auto chubskins@192.168.4.186:~
